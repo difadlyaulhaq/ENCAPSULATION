@@ -1,0 +1,15 @@
+C:\Kene\emcapsulation\emcapsulation\bin\Debug\net6.0\emcapsulation.exe
+C:\Kene\emcapsulation\emcapsulation\bin\Debug\net6.0\emcapsulation.deps.json
+C:\Kene\emcapsulation\emcapsulation\bin\Debug\net6.0\emcapsulation.runtimeconfig.json
+C:\Kene\emcapsulation\emcapsulation\bin\Debug\net6.0\emcapsulation.dll
+C:\Kene\emcapsulation\emcapsulation\bin\Debug\net6.0\emcapsulation.pdb
+C:\Kene\emcapsulation\emcapsulation\obj\Debug\net6.0\emcapsulation.csproj.AssemblyReference.cache
+C:\Kene\emcapsulation\emcapsulation\obj\Debug\net6.0\emcapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kene\emcapsulation\emcapsulation\obj\Debug\net6.0\emcapsulation.AssemblyInfoInputs.cache
+C:\Kene\emcapsulation\emcapsulation\obj\Debug\net6.0\emcapsulation.AssemblyInfo.cs
+C:\Kene\emcapsulation\emcapsulation\obj\Debug\net6.0\emcapsulation.csproj.CoreCompileInputs.cache
+C:\Kene\emcapsulation\emcapsulation\obj\Debug\net6.0\emcapsulation.dll
+C:\Kene\emcapsulation\emcapsulation\obj\Debug\net6.0\refint\emcapsulation.dll
+C:\Kene\emcapsulation\emcapsulation\obj\Debug\net6.0\emcapsulation.pdb
+C:\Kene\emcapsulation\emcapsulation\obj\Debug\net6.0\emcapsulation.genruntimeconfig.cache
+C:\Kene\emcapsulation\emcapsulation\obj\Debug\net6.0\ref\emcapsulation.dll
